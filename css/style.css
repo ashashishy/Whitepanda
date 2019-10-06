@@ -1,0 +1,89 @@
+
+
+#main-nav{
+    
+    padding-left: 20px;
+    background-color: rgb(255, 255, 255)!important;
+    width: 1200px; !important;
+    
+}
+.bell-icon{
+    margin-right: 50px;
+}
+.user{
+    background-color: rgb(67, 221, 75);
+    border-radius: 50%;
+    font-weight: 800;
+    color: white;
+    padding: 10px;
+}
+.navbar-brand img{
+    width: 100px;
+}
+
+#main-heading{
+    margin:70px 0;
+}
+
+#main-para{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 900;
+    color: rgb(19, 226, 164);
+}
+#second-para{
+    font-family: 'Open Sans', sans-serif;
+    color: grey;
+}
+#second-para a{
+    text-decoration: underline;
+    color: grey;
+}
+#second-nav{
+    margin-top: 100px;
+}
+#vertical-nav {
+    padding-top: 0px;
+    margin: 0;
+ padding-right: auto; 
+ padding-bottom: 1200px; 
+ z-index: -3;
+
+
+}
+.form-inline a sup{
+    
+    border-radius: 50%;
+    
+}
+#vertical-nav a{
+    padding-bottom: 50px;
+}
+.card{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    border-style: none;
+}
+.col-sm-10 .card-title{
+    margin-bottom: 0;
+    margin-left: 20px;
+}
+.col-sm-10 p{
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+
+.footer{
+    margin: auto;
+}
+.footer p{
+    text-align: center;
+}
+
+.socialicon{
+    margin:30px auto;
+    text-align: center;
+    
+}
+.socialicon a{
+    margin-right:50px; 
+}
